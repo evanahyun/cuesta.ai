@@ -1,6 +1,5 @@
 {
-  "name": "LibreChat",
-  "version": "v0.7.7",
+  "version": "v0.0.7",
   "description": "",
   "workspaces": [
     "api",
@@ -73,15 +72,15 @@
     "reset-terms": "node config/reset-terms.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/danny-avila/LibreChat.git"
+    "type": "git"
+   
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/danny-avila/LibreChat/issues"
+    
   },
-  "homepage": "https://librechat.ai/",
+  "homepage": "",
   "devDependencies": {
     "@axe-core/playwright": "^4.10.1",
     "@eslint/compat": "^1.2.6",
